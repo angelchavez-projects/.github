@@ -1,9 +1,17 @@
-## Hi there 👋
+# Angel Chavez · Projects
 
-**Here are some ideas to get you started:**
+Personal organization for the development, maintenance, and experimentation of software projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Focus
+- Clean and scalable architectures  
+- .NET backend / APIs  
+- Frontend with Next.js  
+- Domain-driven design and best practices  
+- Personal and experimental projects  
+
+## Status
+Active organization for individual use.
+
+---
+
+© Angel Chavez
